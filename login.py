@@ -9,3 +9,5 @@ num = 456
 num = jkghj
 
 yue = fff
+
+yux =ssc
